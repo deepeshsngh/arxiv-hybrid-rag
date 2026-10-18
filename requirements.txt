@@ -1,0 +1,8 @@
+bm25s 
+sentence-transformers 
+faiss-cpu 
+pandas 
+pyarrow 
+beir 
+fastapi 
+uvicorn
